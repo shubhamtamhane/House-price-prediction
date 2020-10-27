@@ -28,6 +28,6 @@ I tried several different models however only 3 are listed for readability. Eval
 
 ## Model Performance
 The Linear Regression model outperformed the others by a **HUGE** margin.
-* Linear Regression: MAE = 16717
-* Random Forest Regressor: MAE = 71371
-* Gradient Boosting Regressor: MAE = 73071
+* **Linear Regression:** MAE = 16717
+* **Random Forest Regressor:** MAE = 71371
+* **Gradient Boosting Regressor:** MAE = 73071
